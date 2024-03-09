@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(209, 206, 206);
+}
+
+.erro-texto{
+    width: 61%;
+}
+
+.back-btn{
+    width: 15%;margin-top: 20px;
+}
+
+.back-btn:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
